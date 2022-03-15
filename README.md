@@ -9,9 +9,10 @@ While most people use this app for gaining insights about cityscapes, outdoorsy 
 
 ---
 - ## Features i hope to implement in future.
-- - :telescope: Users can choose between a 2d and 3d map.
-- - :telescope: and also a dice feature, that  allows you to choose your next location to explore completely randomly.
-- - 🪲: and also a dice feature, that  allows you to choose your next location to explore completely randomly.
+- - Users can choose between a 2d and 3d map.
+- - and also a dice feature, that  allows you to choose your next location to explore completely randomly.
+- - and also a dice feature, that  allows you to choose your next location to explore completely randomly.
+- - and lastly - 3D models of constellations, augmented reality and even a section for astronomical news.
 
 # :hammer_and_wrench: Technologies Used
 - Javascript
@@ -24,3 +25,6 @@ While most people use this app for gaining insights about cityscapes, outdoorsy 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+# The App has been hosted on Netlify(check link below)
+https://hikingapp.netlify.app/
