@@ -11,6 +11,7 @@ While most people use this app for gaining insights about cityscapes, outdoorsy 
 - ## Features i hope to implement in future.
 - - :telescope: Users can choose between a 2d and 3d map.
 - - :telescope: and also a dice feature, that  allows you to choose your next location to explore completely randomly.
+- - 🪲: and also a dice feature, that  allows you to choose your next location to explore completely randomly.
 
 # :hammer_and_wrench: Technologies Used
 - Javascript
